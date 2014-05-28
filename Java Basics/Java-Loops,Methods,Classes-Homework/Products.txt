@@ -1,0 +1,3 @@
+apple 5.60
+banana 2.40
+oranges 5.15
