@@ -1,0 +1,5 @@
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Exams\03.House\bin\Debug\03.House.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Exams\03.House\bin\Debug\03.House.pdb
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Exams\03.House\obj\Debug\03.House.csprojResolveAssemblyReference.cache
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Exams\03.House\obj\Debug\03.House.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Exams\03.House\obj\Debug\03.House.pdb

@@ -1,0 +1,6 @@
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.WeAllLoveBits\bin\Debug\Telerik.WeAllLoveBits.exe.config
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.WeAllLoveBits\bin\Debug\Telerik.WeAllLoveBits.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.WeAllLoveBits\bin\Debug\Telerik.WeAllLoveBits.pdb
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.WeAllLoveBits\obj\Debug\Telerik.WeAllLoveBits.csprojResolveAssemblyReference.cache
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.WeAllLoveBits\obj\Debug\Telerik.WeAllLoveBits.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.WeAllLoveBits\obj\Debug\Telerik.WeAllLoveBits.pdb

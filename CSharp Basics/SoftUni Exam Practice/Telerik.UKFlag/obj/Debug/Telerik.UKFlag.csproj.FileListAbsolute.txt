@@ -1,0 +1,5 @@
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.UKFlag\bin\Debug\Telerik.UKFlag.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.UKFlag\bin\Debug\Telerik.UKFlag.pdb
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.UKFlag\obj\Debug\Telerik.UKFlag.csprojResolveAssemblyReference.cache
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.UKFlag\obj\Debug\Telerik.UKFlag.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.UKFlag\obj\Debug\Telerik.UKFlag.pdb

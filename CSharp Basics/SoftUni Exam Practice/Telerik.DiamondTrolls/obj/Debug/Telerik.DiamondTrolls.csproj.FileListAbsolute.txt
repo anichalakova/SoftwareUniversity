@@ -1,0 +1,5 @@
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.DiamondTrolls\obj\Debug\Telerik.DiamondTrolls.csprojResolveAssemblyReference.cache
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.DiamondTrolls\bin\Debug\Telerik.DiamondTrolls.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.DiamondTrolls\bin\Debug\Telerik.DiamondTrolls.pdb
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.DiamondTrolls\obj\Debug\Telerik.DiamondTrolls.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.DiamondTrolls\obj\Debug\Telerik.DiamondTrolls.pdb

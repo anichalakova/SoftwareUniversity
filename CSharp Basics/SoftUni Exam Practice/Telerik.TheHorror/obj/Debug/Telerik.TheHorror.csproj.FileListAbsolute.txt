@@ -1,0 +1,5 @@
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.TheHorror\bin\Debug\Telerik.TheHorror.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.TheHorror\bin\Debug\Telerik.TheHorror.pdb
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.TheHorror\obj\Debug\Telerik.TheHorror.csprojResolveAssemblyReference.cache
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.TheHorror\obj\Debug\Telerik.TheHorror.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.TheHorror\obj\Debug\Telerik.TheHorror.pdb

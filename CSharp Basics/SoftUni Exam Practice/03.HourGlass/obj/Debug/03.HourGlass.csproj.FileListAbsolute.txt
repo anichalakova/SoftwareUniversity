@@ -1,0 +1,5 @@
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\03.HourGlass\bin\Debug\03.HourGlass.exe
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\03.HourGlass\bin\Debug\03.HourGlass.pdb
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\03.HourGlass\obj\Debug\03.HourGlass.exe
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\03.HourGlass\obj\Debug\03.HourGlass.pdb
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\03.HourGlass\obj\Debug\03.HourGlass.csprojResolveAssemblyReference.cache

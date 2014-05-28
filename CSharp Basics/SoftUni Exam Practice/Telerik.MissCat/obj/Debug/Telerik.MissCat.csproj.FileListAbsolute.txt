@@ -1,0 +1,6 @@
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.MissCat\bin\Debug\Telerik.MissCat.exe.config
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.MissCat\bin\Debug\Telerik.MissCat.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.MissCat\bin\Debug\Telerik.MissCat.pdb
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.MissCat\obj\Debug\Telerik.MissCat.csprojResolveAssemblyReference.cache
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.MissCat\obj\Debug\Telerik.MissCat.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.MissCat\obj\Debug\Telerik.MissCat.pdb

@@ -1,0 +1,5 @@
+C:\Users\Alex Kondov\Documents\Visual Studio 2013\Projects\SoftUni Exams\03.Sunglasses\bin\Debug\03.Sunglasses.exe
+C:\Users\Alex Kondov\Documents\Visual Studio 2013\Projects\SoftUni Exams\03.Sunglasses\bin\Debug\03.Sunglasses.pdb
+C:\Users\Alex Kondov\Documents\Visual Studio 2013\Projects\SoftUni Exams\03.Sunglasses\obj\Debug\03.Sunglasses.csprojResolveAssemblyReference.cache
+C:\Users\Alex Kondov\Documents\Visual Studio 2013\Projects\SoftUni Exams\03.Sunglasses\obj\Debug\03.Sunglasses.exe
+C:\Users\Alex Kondov\Documents\Visual Studio 2013\Projects\SoftUni Exams\03.Sunglasses\obj\Debug\03.Sunglasses.pdb

@@ -1,0 +1,5 @@
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.SubsequentSums\bin\Debug\Telerik.SubsequentSums.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.SubsequentSums\bin\Debug\Telerik.SubsequentSums.pdb
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.SubsequentSums\obj\Debug\Telerik.SubsequentSums.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.SubsequentSums\obj\Debug\Telerik.SubsequentSums.pdb
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.SubsequentSums\obj\Debug\Telerik.SubsequentSums.csprojResolveAssemblyReference.cache

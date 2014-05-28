@@ -1,0 +1,4 @@
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Exams\03.Eclipse\bin\Debug\03.Eclipse.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Exams\03.Eclipse\bin\Debug\03.Eclipse.pdb
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Exams\03.Eclipse\obj\Debug\03.Eclipse.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Exams\03.Eclipse\obj\Debug\03.Eclipse.pdb

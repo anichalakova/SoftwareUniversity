@@ -1,0 +1,5 @@
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.QuadronacciRectangle\bin\Debug\Telerik.QuadronacciRectangle.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.QuadronacciRectangle\bin\Debug\Telerik.QuadronacciRectangle.pdb
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.QuadronacciRectangle\obj\Debug\Telerik.QuadronacciRectangle.csprojResolveAssemblyReference.cache
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.QuadronacciRectangle\obj\Debug\Telerik.QuadronacciRectangle.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.QuadronacciRectangle\obj\Debug\Telerik.QuadronacciRectangle.pdb

@@ -1,0 +1,4 @@
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Exams\02.Pairs\bin\Debug\02.Pairs.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Exams\02.Pairs\bin\Debug\02.Pairs.pdb
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Exams\02.Pairs\obj\Debug\02.Pairs.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Exams\02.Pairs\obj\Debug\02.Pairs.pdb

@@ -1,0 +1,1 @@
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.DrunkenNumbers\bin\Debug\Telerik.DrunkenNumbers.exe.config

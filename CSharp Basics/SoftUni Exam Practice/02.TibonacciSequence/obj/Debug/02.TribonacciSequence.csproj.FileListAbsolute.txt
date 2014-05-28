@@ -1,0 +1,5 @@
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\02.TibonacciSequence\bin\Debug\02.TibonacciSequence.exe
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\02.TibonacciSequence\bin\Debug\02.TibonacciSequence.pdb
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\02.TibonacciSequence\obj\Debug\02.TribonacciSequence.csprojResolveAssemblyReference.cache
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\02.TibonacciSequence\obj\Debug\02.TibonacciSequence.exe
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\02.TibonacciSequence\obj\Debug\02.TibonacciSequence.pdb

@@ -1,0 +1,6 @@
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Entrance Exam\02.OddEvenElements\bin\Debug\02.OddEvenElements.exe.config
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Entrance Exam\02.OddEvenElements\bin\Debug\02.OddEvenElements.exe
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Entrance Exam\02.OddEvenElements\bin\Debug\02.OddEvenElements.pdb
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Entrance Exam\02.OddEvenElements\obj\Debug\02.OddEvenElements.exe
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Entrance Exam\02.OddEvenElements\obj\Debug\02.OddEvenElements.pdb
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Entrance Exam\02.OddEvenElements\obj\Debug\02.OddEvenElements.csprojResolveAssemblyReference.cache

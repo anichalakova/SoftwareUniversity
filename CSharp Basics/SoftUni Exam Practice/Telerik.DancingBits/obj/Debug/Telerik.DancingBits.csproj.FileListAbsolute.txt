@@ -1,0 +1,4 @@
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.DancingBits\bin\Debug\Telerik.DancingBits.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.DancingBits\bin\Debug\Telerik.DancingBits.pdb
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.DancingBits\obj\Debug\Telerik.DancingBits.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.DancingBits\obj\Debug\Telerik.DancingBits.pdb
