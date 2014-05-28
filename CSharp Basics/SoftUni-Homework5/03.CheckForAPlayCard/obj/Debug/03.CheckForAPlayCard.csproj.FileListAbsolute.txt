@@ -1,0 +1,4 @@
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework5\03.CheckForAPlayCard\bin\Debug\03.CheckForAPlayCard.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework5\03.CheckForAPlayCard\bin\Debug\03.CheckForAPlayCard.pdb
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework5\03.CheckForAPlayCard\obj\Debug\03.CheckForAPlayCard.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework5\03.CheckForAPlayCard\obj\Debug\03.CheckForAPlayCard.pdb

@@ -1,0 +1,5 @@
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Homework4\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Homework4\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.pdb
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Homework4\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.exe
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Homework4\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.pdb
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework4\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework4\03.CircleAreaAndPerimeter\bin\Debug\03.CircleAreaAndPerimeter.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework4\03.CircleAreaAndPerimeter\bin\Debug\03.CircleAreaAndPerimeter.pdb
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework4\03.CircleAreaAndPerimeter\obj\Debug\03.CircleAreaAndPerimeter.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework4\03.CircleAreaAndPerimeter\obj\Debug\03.CircleAreaAndPerimeter.pdb

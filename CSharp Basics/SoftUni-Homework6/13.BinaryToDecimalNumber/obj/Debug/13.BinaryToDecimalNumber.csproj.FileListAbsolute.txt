@@ -1,0 +1,1 @@
+C:\Users\Alex Kondov\Documents\Visual Studio 2013\Projects\SoftUni Homework 6\13.BinaryToDecimalNumber\bin\Debug\13.BinaryToDecimalNumber.exe.config

@@ -1,0 +1,4 @@
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework4\04.NumberComparer\bin\Debug\04.NumberComparer.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework4\04.NumberComparer\bin\Debug\04.NumberComparer.pdb
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework4\04.NumberComparer\obj\Debug\04.NumberComparer.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework4\04.NumberComparer\obj\Debug\04.NumberComparer.pdb

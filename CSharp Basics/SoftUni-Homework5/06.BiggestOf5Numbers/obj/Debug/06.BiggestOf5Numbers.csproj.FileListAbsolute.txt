@@ -1,0 +1,5 @@
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework5\06.BiggestOf5Numbers\bin\Debug\06.BiggestOf5Numbers.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework5\06.BiggestOf5Numbers\bin\Debug\06.BiggestOf5Numbers.pdb
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework5\06.BiggestOf5Numbers\obj\Debug\06.BiggestOf5Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework5\06.BiggestOf5Numbers\obj\Debug\06.BiggestOf5Numbers.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework5\06.BiggestOf5Numbers\obj\Debug\06.BiggestOf5Numbers.pdb

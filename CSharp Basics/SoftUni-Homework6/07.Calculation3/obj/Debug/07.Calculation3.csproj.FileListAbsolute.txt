@@ -1,0 +1,2 @@
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Homework 6\Calculation3\obj\Debug\Calculation3.exe
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Homework 6\Calculation3\obj\Debug\Calculation3.pdb

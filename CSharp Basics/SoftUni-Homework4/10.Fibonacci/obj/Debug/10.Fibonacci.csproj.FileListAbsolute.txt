@@ -1,0 +1,1 @@
+C:\Users\Alex Kondov\Documents\Visual Studio 2013\Projects\SoftUni Homework4\10.Fibonacci\bin\Debug\10.Fibonacci.exe.config

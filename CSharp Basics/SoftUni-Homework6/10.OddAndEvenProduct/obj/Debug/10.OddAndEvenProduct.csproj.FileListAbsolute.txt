@@ -1,0 +1,5 @@
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework 6\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework 6\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.pdb
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework 6\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.csprojResolveAssemblyReference.cache
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework 6\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework 6\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.pdb

@@ -1,0 +1,4 @@
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Homework 6\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.exe
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Homework 6\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.pdb
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Homework 6\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.exe
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Homework 6\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.pdb

@@ -1,0 +1,4 @@
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework5\02.BonusScore\bin\Debug\02.BonusScore.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework5\02.BonusScore\bin\Debug\02.BonusScore.pdb
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework5\02.BonusScore\obj\Debug\02.BonusScore.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework5\02.BonusScore\obj\Debug\02.BonusScore.pdb

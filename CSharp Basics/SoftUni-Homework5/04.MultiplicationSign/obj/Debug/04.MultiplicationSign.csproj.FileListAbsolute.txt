@@ -1,0 +1,4 @@
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework5\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework5\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.pdb
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework5\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework5\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.pdb

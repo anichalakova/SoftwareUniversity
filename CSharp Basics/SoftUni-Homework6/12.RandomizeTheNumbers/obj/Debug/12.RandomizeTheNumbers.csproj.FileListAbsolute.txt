@@ -1,0 +1,5 @@
+C:\Users\Alex Kondov\Documents\Visual Studio 2013\Projects\SoftUni Homework 6\12.RandomizeTheNumbers\bin\Debug\12.RandomizeTheNumbers.exe
+C:\Users\Alex Kondov\Documents\Visual Studio 2013\Projects\SoftUni Homework 6\12.RandomizeTheNumbers\bin\Debug\12.RandomizeTheNumbers.pdb
+C:\Users\Alex Kondov\Documents\Visual Studio 2013\Projects\SoftUni Homework 6\12.RandomizeTheNumbers\obj\Debug\12.RandomizeTheNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Alex Kondov\Documents\Visual Studio 2013\Projects\SoftUni Homework 6\12.RandomizeTheNumbers\obj\Debug\12.RandomizeTheNumbers.exe
+C:\Users\Alex Kondov\Documents\Visual Studio 2013\Projects\SoftUni Homework 6\12.RandomizeTheNumbers\obj\Debug\12.RandomizeTheNumbers.pdb
