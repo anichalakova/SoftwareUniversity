@@ -1,0 +1,14 @@
+.nested-table {
+	font-size: 50px;
+	font-weight: bold;
+	width: 300px;
+	height: 150px;
+	text-align: center;
+	margin: 20px;
+	margin-left: 25px;
+}
+.big-table {
+	height: 200px;
+	width: 550px;
+	text-align: center;
+}

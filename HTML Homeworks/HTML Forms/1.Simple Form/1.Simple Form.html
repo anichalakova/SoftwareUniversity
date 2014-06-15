@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Simple Form</title>
+		<link rel="stylesheet" type="text/css" href="simple-form-styles.css">
+	</head>
+	<body>
+		<h1>Enter the System</h1>
+		<div id="reminder">It is necessary to log in into your account to sign up for a course.</div><br />
+		<fieldset class="register-form">
+			<h2><span id="if-new">Are you new?</span> <span id="reg">Register</span></h2>
+			<form method="post" path="pathtosomescript.php">
+				<input id="text" type="text" placeholder="User Name" name="username"/> <br />
+				<input id="text" type="text" placeholder="Email" name="email" /> <br />
+				<input id="text" type="password" placeholder="Password" name="password" /> <br />
+				<input id="text" type="password" placeholder="Confirm Password" name="password" /> <br />
+				<div id="regbtn"><input type="image" src="registerbtn.jpg" id="regimg" /></div>
+			</form>
+		</fieldset>
+		<fieldset class="small-form">
+			<h2 id="have-acc">Already have an account? Login</h2>
+			<form method="post" path="pathtosomescript.php">
+					<input id="text" type="text" placeholder="User name" name="username"/><br />
+					<input id="text"type="Password" placeholder="password" name="password" /><br />
+					<input id="remember" type="checkbox" />
+					<label for="remember" id="rememberlabel">Remember me?</label>
+					<div id="logbtn"><input type="image" src="loginbtn.jpg" id="logimg"/></div><br />
+					<a href="#" id="forgotten-pass">Forgotten Password?</a>
+					<br /><br /><br /><br />
+			</form>
+		</fieldset>
+	</body>
+</html>
