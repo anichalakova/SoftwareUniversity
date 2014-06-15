@@ -1,0 +1,5 @@
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.Eggcelent\bin\Debug\Telerik.Eggcelent.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.Eggcelent\bin\Debug\Telerik.Eggcelent.pdb
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.Eggcelent\obj\Debug\Telerik.Eggcelent.csprojResolveAssemblyReference.cache
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.Eggcelent\obj\Debug\Telerik.Eggcelent.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.Eggcelent\obj\Debug\Telerik.Eggcelent.pdb

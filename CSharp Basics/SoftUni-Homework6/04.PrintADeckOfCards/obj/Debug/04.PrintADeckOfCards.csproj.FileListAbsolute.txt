@@ -1,0 +1,5 @@
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Homework 6\04.PrintADeckOfCards\bin\Debug\04.PrintADeckOfCards.exe
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Homework 6\04.PrintADeckOfCards\bin\Debug\04.PrintADeckOfCards.pdb
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Homework 6\04.PrintADeckOfCards\obj\Debug\04.PrintADeckOfCards.csprojResolveAssemblyReference.cache
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Homework 6\04.PrintADeckOfCards\obj\Debug\04.PrintADeckOfCards.exe
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Homework 6\04.PrintADeckOfCards\obj\Debug\04.PrintADeckOfCards.pdb

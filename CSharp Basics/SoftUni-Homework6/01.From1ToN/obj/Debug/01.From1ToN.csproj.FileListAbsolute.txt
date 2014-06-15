@@ -1,0 +1,5 @@
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Homework 6\01.From1ToN\bin\Debug\01.From1ToN.exe
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Homework 6\01.From1ToN\bin\Debug\01.From1ToN.pdb
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Homework 6\01.From1ToN\obj\Debug\01.From1ToN.csprojResolveAssemblyReference.cache
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Homework 6\01.From1ToN\obj\Debug\01.From1ToN.exe
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Homework 6\01.From1ToN\obj\Debug\01.From1ToN.pdb

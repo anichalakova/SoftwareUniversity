@@ -1,0 +1,5 @@
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.KaspichaniaBoats\bin\Debug\Telerik.KaspichaniaBoats.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.KaspichaniaBoats\bin\Debug\Telerik.KaspichaniaBoats.pdb
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.KaspichaniaBoats\obj\Debug\Telerik.KaspichaniaBoats.csprojResolveAssemblyReference.cache
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.KaspichaniaBoats\obj\Debug\Telerik.KaspichaniaBoats.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.KaspichaniaBoats\obj\Debug\Telerik.KaspichaniaBoats.pdb

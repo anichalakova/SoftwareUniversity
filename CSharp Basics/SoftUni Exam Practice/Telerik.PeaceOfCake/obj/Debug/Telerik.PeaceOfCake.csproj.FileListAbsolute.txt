@@ -1,0 +1,5 @@
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.PeaceOfCake\bin\Debug\Telerik.PeaceOfCake.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.PeaceOfCake\bin\Debug\Telerik.PeaceOfCake.pdb
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.PeaceOfCake\obj\Debug\Telerik.PeaceOfCake.csprojResolveAssemblyReference.cache
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.PeaceOfCake\obj\Debug\Telerik.PeaceOfCake.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.PeaceOfCake\obj\Debug\Telerik.PeaceOfCake.pdb

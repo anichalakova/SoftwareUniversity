@@ -1,0 +1,5 @@
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.LeastMajorityMultiple\bin\Debug\Telerik.LeastMajorityMultiple.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.LeastMajorityMultiple\bin\Debug\Telerik.LeastMajorityMultiple.pdb
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.LeastMajorityMultiple\obj\Debug\Telerik.LeastMajorityMultiple.csprojResolveAssemblyReference.cache
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.LeastMajorityMultiple\obj\Debug\Telerik.LeastMajorityMultiple.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.LeastMajorityMultiple\obj\Debug\Telerik.LeastMajorityMultiple.pdb

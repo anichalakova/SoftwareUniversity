@@ -1,0 +1,5 @@
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework4\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework4\07.SumOf5Numbers\bin\Debug\07.SumOf5Numbers.pdb
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework4\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework4\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework4\07.SumOf5Numbers\obj\Debug\07.SumOf5Numbers.pdb

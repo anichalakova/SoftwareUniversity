@@ -1,0 +1,9 @@
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Entrance Exam\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Entrance Exam\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Entrance Exam\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Entrance Exam\ConsoleApplication1\obj\Debug\01.Exam Schedule.csprojResolveAssemblyReference.cache
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Entrance Exam\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Entrance Exam\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Alex Kondov\Documents\Visual Studio 2013\Projects\SoftUni Entrance Exam\01.ExamSchedule\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Alex Kondov\Documents\Visual Studio 2013\Projects\SoftUni Entrance Exam\01.ExamSchedule\obj\Debug\ConsoleApplication1.exe
+C:\Users\Alex Kondov\Documents\Visual Studio 2013\Projects\SoftUni Entrance Exam\01.ExamSchedule\obj\Debug\ConsoleApplication1.pdb

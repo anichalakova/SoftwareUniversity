@@ -1,0 +1,4 @@
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Exams\02.OddEvenSum\bin\Debug\02.OddEvenSum.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Exams\02.OddEvenSum\bin\Debug\02.OddEvenSum.pdb
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Exams\02.OddEvenSum\obj\Debug\02.OddEvenSum.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Exams\02.OddEvenSum\obj\Debug\02.OddEvenSum.pdb

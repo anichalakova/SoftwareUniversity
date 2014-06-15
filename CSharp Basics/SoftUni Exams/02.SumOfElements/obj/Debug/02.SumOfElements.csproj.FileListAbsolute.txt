@@ -1,0 +1,5 @@
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Exams\02.SumOfElements\bin\Debug\02.SumOfElements.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Exams\02.SumOfElements\bin\Debug\02.SumOfElements.pdb
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Exams\02.SumOfElements\obj\Debug\02.SumOfElements.csprojResolveAssemblyReference.cache
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Exams\02.SumOfElements\obj\Debug\02.SumOfElements.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Exams\02.SumOfElements\obj\Debug\02.SumOfElements.pdb

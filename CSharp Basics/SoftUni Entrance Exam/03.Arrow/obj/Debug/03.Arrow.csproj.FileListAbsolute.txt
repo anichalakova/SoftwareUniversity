@@ -1,0 +1,5 @@
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Entrance Exam\03.Arrow\bin\Debug\03.Arrow.exe.config
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Entrance Exam\03.Arrow\bin\Debug\03.Arrow.exe
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Entrance Exam\03.Arrow\bin\Debug\03.Arrow.pdb
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Entrance Exam\03.Arrow\obj\Debug\03.Arrow.exe
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Entrance Exam\03.Arrow\obj\Debug\03.Arrow.pdb

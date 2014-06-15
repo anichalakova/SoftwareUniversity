@@ -1,0 +1,5 @@
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.FirTree\bin\Debug\Telerik.FirTree.exe.config
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.FirTree\bin\Debug\Telerik.FirTree.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.FirTree\bin\Debug\Telerik.FirTree.pdb
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.FirTree\obj\Debug\Telerik.FirTree.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.FirTree\obj\Debug\Telerik.FirTree.pdb

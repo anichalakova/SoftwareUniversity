@@ -1,0 +1,5 @@
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework5\09.PlayWithVariables\bin\Debug\09.PlayWithVariables.exe.config
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework5\09.PlayWithVariables\bin\Debug\09.PlayWithVariables.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework5\09.PlayWithVariables\bin\Debug\09.PlayWithVariables.pdb
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework5\09.PlayWithVariables\obj\Debug\09.PlayWithVariables.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework5\09.PlayWithVariables\obj\Debug\09.PlayWithVariables.pdb

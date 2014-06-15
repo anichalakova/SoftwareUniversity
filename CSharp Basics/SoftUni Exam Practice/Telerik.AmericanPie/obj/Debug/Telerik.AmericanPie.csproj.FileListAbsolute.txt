@@ -1,0 +1,5 @@
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.AmericanPie\bin\Debug\Telerik.AmericanPie.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.AmericanPie\bin\Debug\Telerik.AmericanPie.pdb
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.AmericanPie\obj\Debug\Telerik.AmericanPie.csprojResolveAssemblyReference.cache
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.AmericanPie\obj\Debug\Telerik.AmericanPie.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.AmericanPie\obj\Debug\Telerik.AmericanPie.pdb

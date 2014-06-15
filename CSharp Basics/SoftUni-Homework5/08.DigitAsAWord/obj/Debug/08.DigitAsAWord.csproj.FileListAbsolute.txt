@@ -1,0 +1,5 @@
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework5\08.DigitAsAWord\bin\Debug\08.DigitAsAWord.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework5\08.DigitAsAWord\bin\Debug\08.DigitAsAWord.pdb
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework5\08.DigitAsAWord\obj\Debug\08.DigitAsAWord.csprojResolveAssemblyReference.cache
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework5\08.DigitAsAWord\obj\Debug\08.DigitAsAWord.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Homework5\08.DigitAsAWord\obj\Debug\08.DigitAsAWord.pdb

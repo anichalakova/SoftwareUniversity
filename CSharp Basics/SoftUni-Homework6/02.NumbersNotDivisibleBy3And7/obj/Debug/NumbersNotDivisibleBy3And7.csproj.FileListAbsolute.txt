@@ -1,0 +1,4 @@
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Homework 6\NumbersNotDivisibleBy3And7\bin\Debug\NumbersNotDivisibleBy3And7.exe
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Homework 6\NumbersNotDivisibleBy3And7\bin\Debug\NumbersNotDivisibleBy3And7.pdb
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Homework 6\NumbersNotDivisibleBy3And7\obj\Debug\NumbersNotDivisibleBy3And7.exe
+c:\users\alex kondov\documents\visual studio 2013\Projects\SoftUni Homework 6\NumbersNotDivisibleBy3And7\obj\Debug\NumbersNotDivisibleBy3And7.pdb

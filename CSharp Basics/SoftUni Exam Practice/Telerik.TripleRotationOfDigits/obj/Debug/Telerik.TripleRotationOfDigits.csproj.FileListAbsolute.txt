@@ -1,0 +1,5 @@
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.TripleRotationOfDigits\bin\Debug\Telerik.TripleRotationOfDigits.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.TripleRotationOfDigits\bin\Debug\Telerik.TripleRotationOfDigits.pdb
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.TripleRotationOfDigits\obj\Debug\Telerik.TripleRotationOfDigits.csprojResolveAssemblyReference.cache
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.TripleRotationOfDigits\obj\Debug\Telerik.TripleRotationOfDigits.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Sample Exam\Telerik.TripleRotationOfDigits\obj\Debug\Telerik.TripleRotationOfDigits.pdb

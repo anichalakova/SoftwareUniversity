@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.OddEvenElements", "02.OddEvenElements\02.OddEvenElements.csproj", "{F234DAAF-6AD9-4B6E-9915-1C800ECD5F8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Arrow", "03.Arrow\03.Arrow.csproj", "{499ED0F5-7372-436E-AD2B-9141E7567AB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Exam Schedule", "01.ExamSchedule\01.Exam Schedule.csproj", "{853FB820-688E-4A15-936B-C33F0E299E9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F234DAAF-6AD9-4B6E-9915-1C800ECD5F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F234DAAF-6AD9-4B6E-9915-1C800ECD5F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F234DAAF-6AD9-4B6E-9915-1C800ECD5F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F234DAAF-6AD9-4B6E-9915-1C800ECD5F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{499ED0F5-7372-436E-AD2B-9141E7567AB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{499ED0F5-7372-436E-AD2B-9141E7567AB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{499ED0F5-7372-436E-AD2B-9141E7567AB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{499ED0F5-7372-436E-AD2B-9141E7567AB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{853FB820-688E-4A15-936B-C33F0E299E9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{853FB820-688E-4A15-936B-C33F0E299E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{853FB820-688E-4A15-936B-C33F0E299E9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{853FB820-688E-4A15-936B-C33F0E299E9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

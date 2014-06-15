@@ -1,0 +1,4 @@
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Exams\02.Illuminati\bin\Debug\02.Illuminati.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Exams\02.Illuminati\bin\Debug\02.Illuminati.pdb
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Exams\02.Illuminati\obj\Debug\02.Illuminati.exe
+C:\Users\Alex Kondov\documents\visual studio 2013\Projects\SoftUni Exams\02.Illuminati\obj\Debug\02.Illuminati.pdb
