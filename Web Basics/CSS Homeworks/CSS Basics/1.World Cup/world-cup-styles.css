@@ -1,0 +1,115 @@
+body {
+	font-family: "Calibri", Calibri;
+}
+#wrapper {
+	background-color: #03933E;
+	width: 950px;
+	height: 400px;
+	padding-top: 1px;
+}
+table {
+	margin: 50px;
+	border-radius: 10px;
+	background-color: white;
+}
+table, th, td {
+	border-spacing: 0;
+	border: 1px solid black;
+}
+	thead {
+		background-color: #FAC60E;
+		font-size: 20px;
+	}
+	table tbody tr:last-child td:first-child {
+		border-bottom-left-radius: 8px;
+	}
+	table tbody tr:last-child td:last-child {
+		border-bottom-right-radius: 8px;
+	}
+	table thead tr:first-child th:first-child {
+		border-top-left-radius: 8px;
+	}
+	table thead tr:first-child th:last-child {
+		border-top-right-radius: 8px;
+	}
+.flags {
+	display: inline;
+	width: 20px;
+	height: 10px;
+}
+	#brazil-flag {
+		content: url(brazil-flag.png);
+	}
+	#mexico-flag {
+		content: url(mexico-flag.png);
+	}
+	#spain-flag {
+		content: url(spain-flag.png);
+	}
+	#netherlands-flag {
+		content: url(netherlands-flag.png);
+	}
+	#italy-flag {
+		content: url(italy-flag.png);
+	}
+	#england-flag {
+		content: url(england-flag.png);
+	}
+	#argentina-flag {
+		content: url(argentina-flag.png);
+	}
+	#bosniaandherz-flag {
+		content: url(bosniaandherz-flag.png);
+	}
+	#germany-flag {
+		content: url(germany-flag.png);
+	}
+	#portugal-flag {
+		content: url(portugal-flag.png);
+	}
+
+.first-country {
+	width: 150px;
+	text-align: right;
+	height: 40px;
+}
+.second-country {
+	height: 40px;
+	width: 150px;
+	text-align: left;
+}
+.result {
+	text-align: center;
+	width: 80px;
+}
+.grey-row {
+	background-color: #C8C8C8;
+}
+.group {
+	text-align: center;
+}
+input {
+	width: 30px;
+}
+::-webkit-input-placeholder {
+   color: red;
+}
+
+button {
+	width: 30px;
+	height: 30px;
+	border-radius: 20px;
+	font-size:10px; 
+	background-color: green;
+	color: white;
+	font-weight: bold;
+	border-top: white;
+	border-left: white;
+	border-bottom: darkgrey;
+	border-right: darkgrey;
+}
+	.disabled {
+		background-color: red;
+		color: white;
+		font-weight: bold;
+	}

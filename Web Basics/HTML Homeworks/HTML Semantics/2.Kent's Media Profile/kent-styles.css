@@ -1,0 +1,31 @@
+#wrapper {
+	background-color: pink;
+	font-family: "Calibri", Calibri;
+	font-size: 18px;
+
+}
+	h1 {
+		text-align: center;
+		font-size: 40px;
+	}
+#main {
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+}
+section {
+	display: inline-block;
+}
+	#avatar {
+		width: 200px;
+		height: 200px;
+		float: left;
+	}
+	#audio-player {
+		height: 80px;
+		background-color: black;
+		padding-bottom: 53px;
+	}
+	#video-player {
+		width: 480px;
+	}
