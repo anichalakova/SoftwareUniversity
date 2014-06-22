@@ -1,110 +1,178 @@
+* {
+	padding: 0;
+	margin: 0;
+}
 body {
-	background-color: lightblue;
+	background-color: #98CAED;
 	font-family: "Calibri", Calibri;
 }
 
 /* header */
 header {
-	position: absolute;
-	bottom: 92.5%;
-	height: 50px;
-	width: 100%;
 	background-color: white;
+	height: 40px;
 }
-header nav {
-	display: inline;
+#head-div {
+
 }
 header ul {
 	list-style: none;
 	display: inline;
-	padding-left: 0;
 }
-header ul li {
-	display: inline;
-	padding-right: 5px;
+	header ul li {
+		display: inline;
+	}
+	header ul li a {
+		color: grey;
+		text-decoration: none;
+		font-size: 17px;
+		padding: 20px;
+	}
+	#logo {
+		display: inline;
+		padding-left: 250px;
+		content: url(twitter-logo.png);
+		height: 30px;
+		width: 30px;
+	}
+	header nav {
+		display: inline;
+	}
+	header form {
+		padding-left: 350px;
+		display: inline;
+	}
+		header form input {
+			background-color: lightgrey;
+			border-radius: 10px;
+			height: 20px;
+			width: 200px;
+		}
+/* header end */
+
+/* left aside */
+
+aside {
+	background-color: white;
+	margin: 10px;
+	border-radius: 10px;
+	width: 300px;
 }
-header form {
-	display: inline;
-}
-/* header */
-
-
-
-/* left side */
-
-/*.profile-summary {
-	position: absolute;
-	bottom: 60%;
-}*/
+	aside #user-table {
+		padding-left: 85px;
+		border-spacing: 0;
+	}
 	#blue-field {
-		background-color: darkblue;
 		border-top-left-radius: 10px;
 		border-top-right-radius: 10px;
-		width: 200px;
-		height: 200px;
+		background-color: blue;
+		height: 100px;
 	}
-	#summary {
-		background-color: white;
-		width: 200px;
+	#user-name {
+		font-weight: bold;
+		font-size: 24px;
+	}
+	#user-nick {
+		font-size: 18px;
+	}
+	#user-logo {
+		width: 70px;
+		height: 70px;
+		position: absolute;
+		top: 19%;
+		left: 1.5%;
+		border: 3px solid white;
+		border-radius: 5px;
+	}
+
+	aside #user-summary {
+		margin-top: 10px;
+	}
+	aside #user-summary th{
+		color: grey;
+		padding-left: 10px;
+		font-size: 18px;
+	}
+	aside #user-summary td {
+		color: cornflowerblue;
+		padding-left: 10px;
+		font-size: 18px;
 	}
 	#new-tweet {
-		background-color: #CDECFA;
-		width: 200px;
+		background-color: #C2DDF0;
+		height: 40px;
+		border-bottom-right-radius: 10px;
+		border-bottom-left-radius: 10px;
+		text-align: center;
+	}
+	#new-tweet form input {
+		margin-top: 8px;
+		width: 90%;
+		height: 23px;
+		border: none;
 	}
 
 #trends {
-	background-color: white;
-	width: 200px;
+	height: 230px;
 }
-	#trends-heading {
-		color: grey;
-		font-size: 18px;
-	}
-	#trends-change {
-		text-decoration: none;
-		color: cornflowerblue;
-		padding-left: 80px;
-	}
-	#trends ul {
-		list-style-type: none;
-		text-decoration: none;
-		padding-left: 0;
-	}
-	#trends ul li a {
-		color: cornflowerblue;
-		text-decoration: none;
-	}
+#trends-heading {
+	color: grey;
+	font-size: 24px;
+	padding-left: 10px;
+}
+#trends-change {
+	text-decoration: none;
+	color: cornflowerblue;
+	padding-left: 10px;
+}
+#trends ul {
+	list-style: none;
+	padding-left: 10px;
+}
+#trends ul a {
+	text-decoration: none;
+	color: cornflowerblue;
+}
 
-	/* left side*/
+/* left aside */
 
-#tweets {
+/* main */
+
+section {
 	background-color: white;
-	border-radius: 10px;
+	margin: 10px;
 	width: 600px;
+	border-radius: 10px;
 }
+	section h2 {
+		color: grey;
+		font-size: 28px;
+		padding-left: 10px;
+	}
+	table {
+		border-spacing: 0;
+		padding-left: 10px;
+	}
+	table th {
+		text-align: left;
+	}
+	.image {
+		width: 50px;
+		height: 50px;
+	}
+	.posted-at {
+		color: grey;
+		font-size: 12px;
+	}
 	.tweets-anchor {
 		text-decoration: none;
 		color: cornflowerblue;
 	}
-	.tweets-more {
+	.tweets-expand {
 		color: grey;
-		padding-left: 260px;
+		text-decoration: none;
 	}
-	#tweets table th {
-		text-align: left;
-	}
-	img {
-		width: 40px;
-		height: 40px;
-	}
-	#tweets h2 {
+	.tweets-options {
 		color: grey;
-		padding-left: 10px;
-		font-weight: normal;
-		font-size: 35px;
-		font-family: "Calibri", Calibri;
-		margin-bottom: 0;
-	}
-	.posted-at {
-		color: grey;
+		padding-left: 240px;
 	}
