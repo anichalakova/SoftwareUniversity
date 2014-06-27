@@ -1,0 +1,68 @@
+@font-face {
+	font-family: Animated;
+	src: url("Animated.ttf");
+}
+
+body {
+	position: relative;
+	background: url("HawaiiBackground.png"), 
+	-webkit-radial-gradient(15% 15%, circle closest-corner, #eaebe4, #FFFF91 41%,#e8e7dc 59%,#3a75cf 130%),
+	-webkit-linear-gradient(left, #B3C7F5, #0048F0);
+	background-repeat: no-repeat, no-repeat;
+	-webkit-background-size: 900px 600px;
+}
+
+h1 {
+	font-family: "Animated", Animated;
+	text-align: center;
+	margin-left: 50px;
+	color: orange;
+	font-size: 2.5em;
+}
+#nakov {
+	background: url(NakovHula.png);
+	position: absolute;
+	width: 215px;
+	height: 400px;
+	left: 25%;
+}
+#petia {
+	background: url(PetiaHula.png);
+	position: absolute;
+	width: 215px;
+	height: 400px;
+	margin-top: 50px;
+	left: 11%;
+}
+#tedi {
+	background: url(TediHula.png);
+	position: absolute;
+	width: 150px;
+	height: 200px;
+	margin-top: 250px;
+	left: 18%;
+}
+#vladoG {
+	background: url(VladoGHula.png);
+	position: absolute;
+	width: 250px;
+	height: 350px;
+	margin-top: 80px;
+	left: -2%;
+}
+#alex {
+	background: url(AlexHula.png);
+	position: absolute;
+	width: 215px;
+	height: 400px;
+	margin-top: 50px;
+	left: 33%;
+}
+#vladoK {
+	background: url(VladoKHula.png);
+	position: absolute;
+	width: 215px;
+	height: 350px;
+	margin-top: 140px;
+	left: 45%;
+}

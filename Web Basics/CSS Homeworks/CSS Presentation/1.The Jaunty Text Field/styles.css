@@ -1,0 +1,71 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+body {
+	font-family: "Calibri", Calibri;
+}
+h1 {
+	text-shadow: 5px 10px 8px black;
+	font-weight: normal;
+	text-align: center;
+	margin-top: 10px;
+}
+#big-div {
+	width: 400px;
+	height: 200px;
+	border-top: 5px dotted yellow;
+	border-left: 5px dashed red;
+	border-right: 8px solid green;
+	border-bottom: 8px double blue;
+}
+#blue-div {
+	border: 2px solid blue;
+	border-radius: 60px;
+	width: 300px;
+	height: 100px;
+	margin-top: 20px;
+	margin-left: 45px;
+}
+#green-div {
+	border: 2px solid green;
+	border-radius: 50px;
+	width: 296px;
+	height: 96px;
+}
+#yellow-div {
+	border: 2px solid yellow;
+	border-radius: 50px;
+	width: 292px;
+	height: 92px;
+}
+#red-div {
+	border: 2px solid red;
+	border-radius: 50px;
+	width: 288px;
+	height: 88px;
+}
+#inside-text {
+	display: inline-block;
+	margin-left: 20px;
+	margin-top: 12px;
+	font-size: 0.9em;
+	text-shadow: 5px 6px 8px black;
+}
+.not-buttons {
+	width: 120px;
+	height: 20px;
+	background-color: #FF8800;
+	font-size: 12px;
+	text-align: center;
+	margin-left: 15px;
+	margin-top: 20px;
+	border-top: 2px solid #FFBA6B;
+	border-left: 2px solid #FFBA6B;
+	border-bottom: 2px solid #CC6D00;
+	border-right: 2px solid #CC6D00;
+}
+	#right-button {
+		margin-left: 145px;
+		margin-top: -24px;
+	}

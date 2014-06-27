@@ -1,0 +1,68 @@
+body {
+	background-image: url(formBackground.jpg);
+}
+form {
+	width: 380px;
+	margin-left: 30px;
+}
+div {
+	margin: 5px;
+	background-color: rgba(192,192,192,0.4);
+	border-radius: 5px;
+	border: 1px solid white;
+	height: 50px;
+
+}
+header {
+	color: white;
+	font-weight: bold;
+	font-size: 1.4em;
+}
+label {
+	margin-top: 8px;
+	font-weight: bold;
+	padding-left: 10px;
+	display: inline-block;
+	width: 100px;
+}
+input {
+	margin-top: 8px;
+	margin-left: 20px;
+	width: 220px;
+	height: 25px;
+	border-radius: 5px;
+}
+img {
+	width: 30px;
+	height: 20px;
+}
+.card {
+	display: inline;
+	width: 20px;
+}
+#visa {
+	margin-left: 0;
+	width: 15px;
+}
+#amex {
+	margin-left: 0;
+	width: 15px;
+}
+#mastercard {
+	margin-left: 0;
+	width: 15px;
+}
+#card-type {
+	height: 70px;
+}
+#submit-btn {
+	width: 100px;
+	margin-left: 100px;
+	border-radius: 30px;
+	border: none;
+	background-color: royalblue;
+	color: white;
+	font-weight: bold;
+	width: 40%;
+	height: 30px;
+}
