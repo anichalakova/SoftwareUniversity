@@ -1,0 +1,69 @@
+body {
+	font-family: "Calibri", Calibri;
+	background-color: #ddd;
+}
+h1 {
+	color: #234465;
+	font-weight: normal;
+	margin-left: 10px;
+}
+fieldset {
+	width: 270px;
+	display: inline-block;
+	vertical-align: top;
+	height: 340px;
+	background-color: white;
+	border: none;
+	box-shadow: 1px 1px 10px;
+	padding: 20px;
+	margin: 10px; 
+}
+fieldset header {
+	color: #234465;
+	font-weight: bold;
+}
+fieldset time {
+	display: block;
+	color: black;
+	text-align: right;
+}
+fieldset span {
+	color: grey;
+}
+fieldset .tags {
+	color: #234465;
+	font-weight: bold;
+}
+p {
+	color: grey;
+	height: 50px;
+}
+img {
+	width: 250px;
+	height: 90px;
+}
+ul {
+	margin-top: 30px;
+	margin-left: 10px;
+	padding: 0;
+	list-style-type: none;
+}
+ul li {
+	float: left;
+	display: inline-block;
+	border: 1px solid white;
+	width: 30px; 
+	height: 30px;
+	text-align: center;
+	background-color: cornflowerblue;  
+}
+ul li:hover {
+	background-color: orange;
+}
+ul li a {
+	color: white;
+	text-decoration: none;
+	vertical-align: middle;
+	margin: 0px;
+	padding: 0px;
+}
