@@ -1,0 +1,159 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: "Calibri", Calibri;
+}
+body {
+	background-color: black;
+}
+#wrapper {
+	display: flex;
+	flex-direction: column;
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: white;
+	flex-wrap: no-wrap;
+}
+main {
+	display: flex;
+	flex-direction: row;
+}
+section {
+	width: 75%;
+}
+/* header */
+#logo {
+	content: url(headerBackground.jpg);
+	width: 100%;
+}
+#slogan {
+	position: absolute;
+	top: 35%;
+	left: 57%;
+	color: white;
+	z-index: 1000;
+	font-size: 1.8em;
+	font-weight: bold;
+}
+#nav {
+	background: -webkit-gradient(linear, left top, left bottom, 
+		color-stop(0%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,0.65)), color-stop(101%,rgba(0,0,0,0.65)))!important;
+}
+nav > ul {
+	list-style-type: none;
+
+}
+nav > ul > li {
+	display: inline-block;
+	border-right: 1px solid white;
+	height: 40px;
+	width: 100px;
+
+}
+nav > ul > li > a {
+	width: 100%;
+	display: block;
+	margin-top: 10px;
+	text-align: center;
+	text-decoration: none;
+	color: lightgrey;
+	font-weight: bold;
+	vertical-align: middle;
+}
+nav > ul > li:hover {
+	background-color: darkgrey;
+	color: white;
+}
+/* end header */
+
+/* main content */
+#welcome-section {
+	width: 90%;
+	margin: 10px;
+	border-radius: 5px;
+	border: 1px solid;
+	padding: 10px; 
+}
+#main-header {
+	font-size: 1.7em;
+}
+
+#free-products {
+	width: 90%;
+	margin: 10px;
+	border-radius: 5px;
+	border: 1px solid;
+	padding: 10px;
+}
+.product {
+	padding: 10px;
+	clear: both;
+}
+.product-name {
+	font-weight: bold;
+	font-size: 1.2em;
+	margin: 2px;
+	display: inline-block;
+}
+.product > p {
+	margin: 2px;
+	margin-top: 0px;
+	font-size: 0.9em;
+}
+fieldset > header {
+	font-weight: bold;
+	font-size: 1.5em;
+	color: green;
+}
+img {
+	float: left;
+	clear: both;
+	margin: 3px;
+	width: 25%;
+}
+/* end main content */
+
+/*aside*/
+#side-menus {
+	max-width: 32%;
+}
+aside {
+	display: flex;
+	flex-direction: column;
+	border: 1px solid;
+	border-radius: 5px;
+	margin: 10px;
+	padding: 20px;
+	margin-right: 30px;
+	height: 50%;
+	background-color: lightgrey;
+}
+aside > header {
+	color: green;
+	font-weight: bold;
+	font-size: 1.5em;
+}
+aside time {
+	font-weight: bold;
+}
+aside .see-more a {
+	color: green;
+}
+#messages {
+	background-color: white;
+}
+#messages > p {
+	padding-bottom: 10px;
+}
+/* end aside */
+/* start footer */
+footer {
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(180,227,145,1)), 
+		color-stop(100%,rgba(97,196,25,1)), color-stop(100%,rgba(180,227,145,1)), color-stop(102%,rgba(97,196,25,1)));
+	height: 100px;
+}
+footer > div { 
+	margin-top: 5%;
+	margin-left: 10%;
+}
