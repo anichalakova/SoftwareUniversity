@@ -1,0 +1,89 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	background-color: cornflowerblue;
+	font-family: "Calibri", Calibri;
+}
+#wrapper {
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto; 
+}
+
+/* header */
+h1 > a {
+	text-decoration: none;
+}
+h1 > a > span {
+	color: white;
+	font-size: 1.2em;
+}
+header > nav > ul {
+	list-style-type: none;
+	position: relative;
+	top: 10.5%;
+	text-align: right;	
+	display: block;
+}
+header > nav > ul > li {
+	display: inline-block;
+	background-color: white;
+	border: 1px solid black;
+	padding: 5px;
+}
+header > nav > ul > li > a {
+	text-decoration: none;
+	color: black;
+}
+/* end header */
+
+/* section */
+section {
+	float: left;
+	clear: both;
+	width: 70%;
+}
+article {
+	background-color: lightblue;
+	border: 1px solid black;
+	margin: 10px;
+	padding: 10px;
+}
+article > header {
+	font-size: 1.4em;
+}
+article > div > p {
+	text-indent: 2em;
+	padding: 10px;
+}
+/* end section */
+
+/* aside */
+.news {
+	background-color: lightblue;
+	border: 1px solid black;
+	margin: 10px;
+	padding: 10px;
+	padding-right: 0px;
+	width: 25%;
+	float: right;
+}
+aside > div > ul {
+	list-style-type: none;
+}
+aside > div > ul > li > a{
+	text-decoration: none;
+	color: black;
+}
+footer {
+	float: left;
+	clear: both;
+	background-color: lightblue;
+	padding: 10px;
+	margin: 10px;
+	border: 1px solid black;
+	width: 100%;
+	text-align: center;
+}
