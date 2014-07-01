@@ -7,7 +7,7 @@ body {
 	font-family: "Calibri", Calibri;
 }
 #wrapper {
-	width: 70%;
+	width: 60%;
 	margin-left: auto;
 	margin-right: auto; 
 }
@@ -65,6 +65,7 @@ article > div > p {
 	background-color: lightblue;
 	border: 1px solid black;
 	margin: 10px;
+	margin-left: 0px;
 	padding: 10px;
 	padding-right: 0px;
 	width: 25%;
@@ -77,13 +78,79 @@ aside > div > ul > li > a{
 	text-decoration: none;
 	color: black;
 }
+/* end aside */
+
+/* footer */
 footer {
 	float: left;
 	clear: both;
 	background-color: lightblue;
 	padding: 10px;
 	margin: 10px;
+	margin-left: 0px;
 	border: 1px solid black;
 	width: 100%;
 	text-align: center;
+}
+/* end footer */
+
+/* ---------------- responsive ---------------------- */
+@media all and (max-width: 960px) and (min-width: 780px) {
+	#wrapper {
+		width: 100%;
+	}
+	
+}
+@media all and (max-width: 780px) and (min-width: 640px) {
+	#wrapper {
+		width: 92%;
+		text-align: center;
+	}
+	#wrapper section {
+		float: left;
+		width: 100%;
+	}
+	#wrapper aside {
+		float: left;
+		width: 100%;
+		clear: both;
+	}
+	#wrapper footer {
+		width: 100%;
+		float: left;
+	}
+}
+@media all and (max-width: 639px) {
+	#wrapper {
+		width: 100%;
+	}
+	#wrapper section {
+		width: 100%;
+		float: left;
+	}
+	#wrapper aside {
+		float: left;
+		width: 92%;
+		text-align: center;
+		margin-right: 10px;
+	}
+	#wrapper footer {
+		width: 90%;
+		float: left;
+	}
+	#wrapper header > nav > ul > li {
+		display: block;
+		width: 80%;
+		margin-left: auto;
+		margin-right: auto;
+		text-align: center;
+	}
+	#wrapper h1 > a > span {
+	display: block;
+	text-align: center;
+	}
+	#wrapper h1 > a > img {
+		display: block;
+		text-align: center;
+	}
 }
