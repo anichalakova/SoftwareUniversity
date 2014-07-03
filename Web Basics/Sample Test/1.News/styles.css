@@ -1,0 +1,35 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: "Tahoma", sans-serif;
+}
+#wrapper {
+	width: 330px;
+}
+.news {
+	padding: 5px;
+	padding-bottom: 12px;
+	border-bottom: 1px dashed grey;
+}
+.news > img {
+	float: left;
+	clear: both;
+	margin: 3px;
+	border: 1px solid black;
+	padding: 1px;
+}
+.news > .heading {
+	font-size: 0.8em;
+	font-weight: bold;
+}
+.news > time {
+	font-size: 0.7em;
+	color: grey;
+	font-weight: bold;
+}
+.news > .content {
+	font-size: 0.75em;
+}
+#last-news {
+	border: none;
+}
