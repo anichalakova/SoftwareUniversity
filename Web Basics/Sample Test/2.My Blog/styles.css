@@ -1,0 +1,73 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: "Helvetica", Helvetica, sans-serif;
+}
+#wrapper {
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#wrapper > header > nav {
+	height: 50px;
+	background-image: url(bg.png);
+}
+#wrapper > header > nav > h1 {
+	font-weight: bolder;
+	color: #5E5C5E;
+	display: inline-block;
+	margin-top: 15px;
+	margin-left: 10px;
+	font-size: 1.2em;
+}
+#wrapper > header > nav > ul {
+	display: inline-block;
+	list-style-type: none;
+	position: relative;
+	left: 65%;
+	top: -5%;
+}
+#wrapper > header > nav > ul > li {
+	display: inline-block;
+	padding: 5px;
+}
+#wrapper > header > nav > ul > li > a {
+	text-decoration: none;
+}
+#wrapper > header > nav > ul > li > a:hover {
+	color: darkblue;
+}
+#wrapper > header > .lower-footer {
+	background-color: black;
+	height: 50px;
+	color: white;
+}
+#wrapper > header > .lower-footer > div {
+	padding-top: 15px;
+	padding-left: 10px;
+}
+#wrapper > header > .lower-footer > div > .year {
+	color: darkgrey;
+}
+#wrapper > header > .lower-footer > div > .year:hover {
+	color: lightgrey;
+	cursor: pointer;
+}
+#wrapper > .main {
+	border-left: 1px solid lightgrey;
+	border-right: 1px solid lightgrey;
+	border-bottom: 1px solid lightgrey;
+}
+#wrapper > .main > h2 {
+	padding: 15px;
+	color: #5E5C5E;
+}
+#wrapper > .main > p {
+	padding: 20px;
+	color: grey;
+}
+#wrapper > .main > p > .bold {
+	font-weight: bold;
+	color: #5E5C5E;
+	font-size: 1.1em;
+}
