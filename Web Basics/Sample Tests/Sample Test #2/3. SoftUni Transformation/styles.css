@@ -1,0 +1,29 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+table th {
+	background-color: #BCE954 ;
+	font-size: 1.2em;
+}
+table thead th  {
+	font-size: 1.5em;
+}
+table td {
+	width: 150px;
+}
+.empty {
+	display: inline-block;
+	margin-left: 70px;
+}
+table td img {
+	width: 40px;
+	height: 40px;
+	vertical-align: middle;
+}
+.purple-row {
+	background-color: #EEEEEE;
+}
+tr:hover {
+	background-color: lightpink;
+}
