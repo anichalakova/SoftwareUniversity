@@ -1,0 +1,67 @@
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Montserrat-Regular'), url(http://themes.googleusercontent.com/static/fonts/montserrat/v4/zhcz-_WihjSQC0oHJ9TCYBsxEYwM7FgeyaSgU71cLG0.woff) 
+  				format('woff');
+}
+* {
+	padding: 0;
+	margin: 0;
+	font-family: "Montserrat", montserrat;
+}
+#wrapper {
+	background-image: url('4. background.jpg');
+	width: 600px;
+	height: 600px;
+	background-repeat: no-repeat;
+    background-size: contain;
+    text-align: center;
+}
+#wrapper > form {
+	background: rgba(222, 243, 250, .3);
+	width: 300px;
+	position: absolute;
+	left: 10%;
+	top: 4%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+#wrapper > form > input[type="text"] {
+	width: 250px;
+	height: 35px;
+	margin: 8px;
+	background: url('5. name.svg') #fff no-repeat;
+	background-size: 30px 30px; 
+	padding-left: 30px;
+	border: none;
+	padding-top: 2px;
+}
+#wrapper > form > input[type="email"] {
+	width: 250px;
+	height: 35px;
+	margin: 8px;
+	background: url('6. email.svg') #fff no-repeat;
+	background-size: 30px 30px; 
+	padding-left: 30px;
+	border: none;
+	padding-top: 2px;
+}
+#wrapper > form > textarea {
+	overflow: hidden;
+	width: 250px;
+	margin-left: 1px;
+	background: url('7. comment.svg') #fff no-repeat;
+	background-size: 30px 30px; 
+	padding-left: 30px;
+	margin: 8px;
+	height: 65px;
+}
+#wrapper > form > input[type="submit"] {
+	background: cornflowerblue;
+	border: 2px solid white;
+	color: white;
+	font-weight: bold;
+	width: 282px;
+	height: 50px;
+}

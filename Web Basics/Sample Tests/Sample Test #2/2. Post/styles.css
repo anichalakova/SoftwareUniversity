@@ -1,0 +1,124 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	font-family: "Helvetica", Helvetica;
+}
+body {
+	background-color: #E9EAED;
+}
+a {
+	text-decoration: none;
+	color: #3B59B1;
+}
+#wrapper {
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #fff;
+	margin-top: 10px;
+}
+#wrapper > .upper-post {
+	padding-bottom: 20px;
+	border-bottom: 1px solid lightgrey;
+}
+#wrapper > .upper-post > #nakov-user {
+	color: grey;
+	padding: 10px; 
+}
+#wrapper > .upper-post > #nakov-user > img {
+	width: 40px;
+	height: 40px;
+	float: left;
+	margin-right: 5px;
+}
+#wrapper > .upper-post > #nakov-user > #nakov-shared {
+	display: inline-block;
+	margin: 2px; 
+}
+#wrapper > .upper-post > #nakov-user > time {
+	display: block;
+}
+#wrapper > .upper-post > #nakov-user > #nakov-shared > span {
+	color: #3B59B1;
+	font-weight: bold;
+}
+/*
+
+*/
+
+#wrapper > .upper-post >#lower-shared {
+	clear: both;
+	margin: 10px;
+	margin-top: 20px;
+}
+#wrapper > .upper-post > #lower-shared > div {
+	margin: 0px; 
+}
+
+/*
+
+*/
+#wrapper > .upper-post > fieldset {
+	margin-left: 8px;
+	margin-right: 8px; 
+	border: 1px solid grey;
+}
+#wrapper > .upper-post > fieldset > img {
+	float: left;
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
+#wrapper > .upper-post > fieldset > div {
+	display: inline-block;
+	padding-top: 15px;
+	padding-left: 10px;
+	color: grey;
+}
+#wrapper > .upper-post > fieldset > div > a {
+	font-weight: bold;
+	color: #3B59B1;
+}
+
+/*
+
+*/
+#wrapper > .lower-post {
+	background-color: #FAFBFB;
+	font-size: 0.9em;
+}
+#wrapper > .lower-post > hr {
+	width: 97%;
+	margin-left: auto;
+	margin-right: auto;
+}
+#wrapper > .lower-post > #like-comment-share {
+	padding: 5px;
+	padding-left: 10px;
+}
+#wrapper > .lower-post > #like-comment-share > #num-shares {
+	margin-left: 270px;
+}
+
+#wrapper > .lower-post > #likes {
+	padding: 5px;
+	padding-left: 10px;
+}
+#wrapper > .lower-post > #view-comments {
+	padding: 5px;
+	padding-left: 10px;
+}
+#wrapper > .lower-post > #view-comments > img {
+	width: 35px;
+	height: 35px;
+	vertical-align: bottom;
+	margin-top: 5px;
+}
+#wrapper > .lower-post > #view-comments > input {
+	height: 30px;
+	width: 89%;
+	padding-left: 10px;
+	background: url('icon03.png') #fff no-repeat;
+	background-size: 15px 15px;
+	background-position: 420px 8px;
+	border: 1px solid #DEE2B9;
+}

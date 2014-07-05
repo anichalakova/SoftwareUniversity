@@ -1,0 +1,47 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	font-family: "Tahoma", Tahoma;
+}
+body {
+	background-color: lightgrey;
+}
+body h1 {
+	margin-left: 210px;
+	margin-bottom: 10px;
+	font-size: 3em;
+}
+section article {
+	width: 320px;
+	display: inline-block;
+	vertical-align: top;
+	background-color: #ECEBED;
+	height: 360px;
+	margin-left: 10px;
+}
+section article:hover {
+	background-color: #fff;
+}
+section article > header {
+	font-weight: bold;
+	font-size: 1.3em;
+	margin: 10px;
+	margin-bottom: 0px;
+}
+section article > div {
+	margin: 10px;
+	margin-top: 0px;
+}
+section article > img {
+	margin: 10px;
+	margin-bottom: 5px;
+}
+section article > p {
+	margin-top: 5px;
+	margin: 10px;
+}
+footer {
+	margin-top: 10px;
+	margin-left: 350px;
+	font-size: 1.3em; 
+}
