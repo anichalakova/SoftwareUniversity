@@ -1,0 +1,147 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+#wrapper {
+	width: 920px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: "Tahoma", Tahoma;
+}
+
+/* header starts */
+#wrapper > header {
+	background-color: #EEEEEE;
+}
+#wrapper > header > #logo {
+	display: inline-block;
+}
+#wrapper > header > #logo > a {
+	content: url(img/logo.png);
+	display: inline-block;
+	margin: 15px;
+}
+#wrapper > header > nav {
+	display: inline-block;
+	float: right;
+	margin-top: 35px;
+}
+#wrapper > header > nav > ul {
+	list-style-type: none;
+
+}
+#wrapper > header > nav > ul > li {
+	display: inline-block;
+	margin-right: 40px;
+	margin-left: 10px;
+	width: 90px;
+	height: 50px;
+	border-radius: 5px;
+}
+#wrapper > header > nav > ul > li:hover {
+	background-color: darkgrey;
+}
+#wrapper > header > nav > ul > li > a {
+	text-decoration: none;
+	color: #818181;
+	font-weight: bold;
+	display: inline-block;
+	padding: 10px; 
+}
+#home-button {
+	color: orange!important;
+}
+/*header ends*/
+
+/*main starts*/
+#content {
+	max-width: 840px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#content > h1 {
+	color: #3E3E3E;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+#content > .text {
+	display: inline-block;
+	width: 410px;
+	vertical-align: top;
+}
+#content > .text > p {
+
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+/*main ends*/
+
+/*footer starts*/
+footer {
+	background-color: #EEEEEE;
+	height: 100px;
+}
+footer > div.copyright {
+	padding-top: 35px;
+	margin-left: 40px;
+	display: inline-block;
+}
+footer > div.social{
+	display: inline-block;
+	margin-left: 350px;
+	margin-top: 35px;
+}
+footer > div.social > ul {
+	list-style-type: none;
+	display: inline-block;
+}
+footer > div.social > ul > li {
+	display: inline-block;
+}
+footer > div.social > ul > li > a {
+	color: black;
+}
+#facebook {
+	left: 0;
+	display: inline-block;
+	background: url(img/icons.png);
+	background-position: 0px 0px;
+	width: 30px;
+	height: 30px;
+}
+#facebook:hover {
+	background-position: 30px 0px;
+}
+#google {
+	left: 0;
+	display: inline-block;
+	background: url(img/icons.png);
+	background-position: 0px -40px;
+	width: 30px;
+	height: 30px;
+}
+#google:hover {
+	background-position: 30px -40px;
+}
+#twitter {
+	left: 0;
+	display: inline-block;
+	background: url(img/icons.png);
+	background-position: -140px -380px;
+	width: 30px;
+	height: 30px;
+}
+#twitter:hover {
+	background-position: -180px -380px;
+}
+#tumblr {
+	left: 0;
+	display: inline-block;
+	background: url(img/icons.png);
+	background-position: -140px -420px;
+	width: 30px;
+	height: 30px;
+}
+#tumblr:hover {
+	background-position: -180px -420px;
+}

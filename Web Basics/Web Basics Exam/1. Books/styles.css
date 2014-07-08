@@ -1,0 +1,60 @@
+ * {
+ 	font-family: "Tahoma", Tahoma;
+ }
+.book {
+	display: inline-block;
+	width: 145px;
+	vertical-align: top;
+}
+.book > header {
+	display: inline-block;
+	font-size: 11px;
+
+}
+.book > header:hover {
+	color: grey;
+	cursor: pointer;
+}
+.book > img {
+	border: 1px solid lightgrey;
+}
+.book > img:hover {
+	cursor: pointer;
+}
+.author {
+	color: grey;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 11px;
+}
+.price {
+	color: darkred;
+	font-weight: bold;
+	margin-bottom: 5px;
+	font-size: 11px;
+}
+#midprice {
+	padding-bottom: 13px;
+}
+input[type="submit"] {
+	background-image: url(img/shopping-cart-inactive.png);
+	padding-left: 20px;
+	border-radius: 5px;
+	border: none;
+	color: grey;
+	font-size: 10px;
+	padding-top: 2px;
+	padding-bottom: 3px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+input[type="submit"]:hover {
+	background-image: url(img/shopping-cart-active.png);
+	color: black;
+	cursor: pointer;
+}
+
+
+.hidden {
+	display: none;
+}

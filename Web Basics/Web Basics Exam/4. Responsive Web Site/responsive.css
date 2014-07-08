@@ -1,0 +1,55 @@
+/* Add here your responsive CSS */
+
+@media all and (min-width: 780px) {
+	.body {
+		width: 90%;
+	}
+}
+@media all and (max-width: 779px) {
+	.body {
+		width: 95%;
+	}
+	.mainHeader nav ul {
+		-webkit-padding-start: 0px;
+	}
+	.mainHeader nav ul li {
+		float: none;
+		display: block;
+	}
+	.mainHeader nav ul li a {
+		width: 91%;
+	}
+	.mainHeader nav {
+		height: 160px; 
+	}
+	.mainHeader > img {
+		width: 100%;
+		height: 300px;
+	}
+
+	.topcontent {
+		width: 140%;
+	}
+	.bottomcontent {
+		width: 140%;
+	}
+
+	.top-sidebar {
+		width: 100%;
+		float: left;
+		margin: 0;
+		margin-top: 10px; 
+	}
+	.middle-sidebar {
+		width: 100%;
+		float: left;
+		margin: 0;
+		margin-top: 10px;
+	}
+	.bottom-sidebar {
+		width: 100%;
+		float: left;
+		margin: 0;
+		margin-top: 10px; 
+	}
+}
