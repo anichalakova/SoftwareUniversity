@@ -128,3 +128,8 @@ body {
 	text-decoration: none;
 	color: grey;
 }
+
+#readme {
+	background-color: cornflowerblue;
+	margin: 10px;
+}
