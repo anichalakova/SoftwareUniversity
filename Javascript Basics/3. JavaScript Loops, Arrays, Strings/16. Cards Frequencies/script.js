@@ -23,7 +23,7 @@ function cardFrequencies (str) {
 		total += map[key];
 	}
 	for (var key in map) {
-		console.log(key + " " + (map[key] / total) * 100 + "%");
+		console.log(key + " " + "->" + " " + (map[key] / total) * 100 + "%");
 	}
 }
 
